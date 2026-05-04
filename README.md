@@ -1,2 +1,3 @@
-# finally_curious
-My institute site.
+# Project
+
+TODO: Document your project here.
